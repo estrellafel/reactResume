@@ -78,3 +78,8 @@
 .back > ul > li:nth-child(2n) {
     color: gray;
 }
+
+.back > ul > li > a {
+    text-decoration: none;
+    color: black;
+}
