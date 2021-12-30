@@ -1,0 +1,25 @@
+body {
+  background-color:black;
+  background-image:
+  radial-gradient(rgb(142, 170, 245), rgba(255,255,255,.2) 2px, transparent 40px),
+  radial-gradient(rgb(142, 170, 245), rgba(255,255,255,.15) 1px, transparent 30px),
+  radial-gradient(rgb(142, 170, 245), rgba(255,255,255,.1) 2px, transparent 40px),
+  radial-gradient(rgb(142, 170, 245), rgba(255,255,255,.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+}
+
+.card-containter {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  margin: 10px;
+}
+
+
