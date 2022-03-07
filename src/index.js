@@ -13,7 +13,7 @@ ReactDOM.render(
     <div className='card-containter'>
       <CardList className='card' topic='Programming Languages' info='Java, Python, Javascript, C, SQL, HTML, CSS, Functional Programming'/>
       <CardList className='card' topic='Technical Skills' info='Augmented Reality, RDMS, React, Git, BitBucket, Jira, Jenkins'/>
-      <CardList className='card' topic='Education' info='University of Wisconsin-La Crosse, Bachelors of Science, Computer Science, GPA: 3.620'/>
+      <CardList className='card' topic='Education' info='University of Wisconsin-La Crosse, Bachelors of Science, Computer Science, GPA: 3.630'/>
       <CardList className='card' topic='Past Employment' 
         info='Digital Engineering Intern - Corporate Best Buy, Intern Software Developer - RealityBLU, Peer Tutor - University of Wisconsin-La Crosse'/>
       <CardList className='card' topic='Job Interest' info='Software Engineer, Software Developer, Backend Developer, Full Stack Developer'/>
