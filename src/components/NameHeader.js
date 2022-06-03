@@ -7,7 +7,6 @@ class NameHeader extends React.Component {
             <h1>{this.props.firstName} {this.props.lastName}</h1>
         );
     }
-    export 
 }
 
 export default NameHeader;

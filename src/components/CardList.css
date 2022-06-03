@@ -1,5 +1,5 @@
 .card {
-    background-color: white;
+    background-color: #E9EFC0;
     width: 30vw;
     height: 40vh;
     border-radius: 25px;
@@ -34,13 +34,13 @@
 }
 
 .front {
-    background-color: white;
+    background-color: #E9EFC0;
     color: black;
     text-align: center;
 }
 
 .back {
-    background-color: white;
+    background-color: #E9EFC0;
     color: black;
     transform: rotateX(-180deg);
 }
@@ -69,14 +69,7 @@
 .back > ul > li {
     font-size: 2em;
     padding-bottom: 10px;
-}
-
-.back > ul > li:nth-child(2n + 1) {
     color: black;
-}
-
-.back > ul > li:nth-child(2n) {
-    color: gray;
 }
 
 .back > ul > li > a {
