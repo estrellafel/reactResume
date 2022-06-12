@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-    BrowserRouter,
+    HashRouter,
     Routes,
     Route,
     Navigate,
@@ -15,7 +15,7 @@ import './Navbar.css'
 class Navbar extends React.Component {
     render() {
         return (
-            <BrowserRouter>
+            <HashRouter>
                 <ul className='navbar-main'>
                     <li><Link to={'/reactResume'} className='nav-link'>Home</Link></li>
                     <li><Link to={'/reactResume/about'} className='nav-link'>About</Link></li>
@@ -29,7 +29,7 @@ class Navbar extends React.Component {
                     <Route path='reactResume/projects' element={<Project/>}/>
                     <Route path='' element={<Navigate to='/reactResume' />} />
                 </Routes>
-            </BrowserRouter>
+            </HashRouter>
         );
     }
 }
