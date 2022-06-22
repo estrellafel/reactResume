@@ -11,7 +11,7 @@ class Home extends React.Component {
                 <div className='card-containter'>
                     <CardList className='card' topic='Programming Languages' info='Java, Python, Javascript, C, SQL, HTML, CSS, Functional Programming'/>
                     <CardList className='card' topic='Technical Skills' info='Augmented Reality, RDMS, React, Git, BitBucket, Jira, Jenkins'/>
-                    <CardList className='card' topic='Education' info='University of Wisconsin-La Crosse, Bachelors of Science, Computer Science, GPA: 3.630'/>
+                    <CardList className='card' topic='Education' info='University of Wisconsin-La Crosse, Bachelors of Science, Computer Science, GPA: 3.650'/>
                     <CardList className='card' topic='Work Experience' 
                         info='Digital Engineering Intern - Corporate Best Buy, Intern Software Developer - RealityBLU'/>
                     <CardList className='card' topic='Job Interest' info='Software Engineer, Data Engineer'/>
