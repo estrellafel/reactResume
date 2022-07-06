@@ -36,6 +36,19 @@ class Project extends React.Component {
                         </div>
                     </div>
                     <div>
+                        <h2>Terminal in C</h2>
+                        <p>
+                            This is a program that is a shell, like bash for example. It can take in a bunch of differnet 
+                            commands such as ls, date, and many more. It can run commands in the foreground and in the background. 
+                            Also, this program has a few builtin commands that are exit, fg, history, jobs, and wait. Plus, this 
+                            program can do file redirection. Lastly, the program supports interactive mode which takes user input 
+                            and batch mode which takes in one or more files.
+                        </p>
+                        <div>
+                            <a href='https://github.com/estrellafel/os_terminal'>GitHub Repository</a>
+                        </div>
+                    </div>
+                    <div>
                         <h2>Design Practice</h2>
                         <p>
                             This repository contains web design practice in html, css, and javascript. There
