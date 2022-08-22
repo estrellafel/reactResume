@@ -1,15 +1,9 @@
-div.project > div.work > h1, div.project > div.personal > h1 {
+div.project > div.personal > h1 {
     margin: 0;
 }
 
 div.project > div.personal:last-child {
     margin-bottom: 3vh;
-}
-
-div.project > div.work > div > h2, div.project > div.work > div > p, div.project > div.work > div > div {
-    margin: 0px;
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 div.project > div.personal > div > h2, div.project > div.personal > div > p, div.project > div.personal > div > div {
@@ -18,17 +12,17 @@ div.project > div.personal > div > h2, div.project > div.personal > div > p, div
     text-align: center;
 }
 
-div.project > div.personal > div > p, div.project > div.work > div > p {
+div.project > div.personal > div > p {
     margin-bottom: 10px;
     margin-right: 3vw;
     margin-left: 3vw;
 }
 
-div.project > div.work > div > div, div.project > div.personal > div > div {
+div.project > div.personal > div > div {
     margin-bottom: 20px;
 }
 
-div.project > div.work > div > div > a, div.project > div.personal > div > div > a {
+div.project > div.personal > div > div > a {
     margin-top: 1vh;
     text-decoration: none;
     background-color: black;
@@ -36,7 +30,7 @@ div.project > div.work > div > div > a, div.project > div.personal > div > div >
     padding: 5px;
 }
 
-div.project > div.work > div > div > a:hover, div.project > div.personal > div > div > a:hover {
+div.project > div.personal > div > div > a:hover {
     background-color: #E9EFC0;
     color: black;
     cursor: pointer;

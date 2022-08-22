@@ -5,23 +5,6 @@ class Project extends React.Component {
     render() {
         return (
             <div className='project'>
-                <div className='work'>
-                    <h1>Work Projects</h1>
-                    <div>
-                        <h2>Interactive 3D View</h2>
-                        <p>
-                            The idea behind the project was to create an interactive experience for 
-                            users. Using the Google Model Viewer I was able to help create an enjoyable
-                            experience for the users while also not bloating the web application's loading time.
-                            Once in the BestBuy page click on the image and go to "3D View" to see the
-                            work I contributed on. There are other products that this also works on throughout
-                            the BestBuy catalog. 
-                        </p>
-                        <div>
-                            <a href='https://www.bestbuy.com/site/samsung-27-cu-ft-large-capacity-3-door-french-door-refrigerator-with-external-water-ice-dispenser-stainless-steel/6401612.p?skuId=6401612'>Live Example</a>
-                        </div>
-                    </div>
-                </div>
                 <div className='personal'>
                     <h1>Personal Projects</h1>
                     <div>

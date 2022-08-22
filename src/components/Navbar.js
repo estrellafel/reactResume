@@ -10,7 +10,7 @@ import Home from './Home.js';
 import About from './About.js';
 import Work from './Work.js';
 import Project from './Project.js';
-import './Navbar.css'
+import './Navbar.css';
 
 class Navbar extends React.Component {
     render() {
