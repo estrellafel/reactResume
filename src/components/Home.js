@@ -9,7 +9,7 @@ class Home extends React.Component {
             <div>
                 <NameHeader firstName='Felix' lastName='Estrella'/>
                 <div className='card-containter'>
-                    <CardList className='card' topic='Programming Languages' info='Java, Python, Javascript, C, C++, SQL, HTML, CSS, Functional Programming'/>
+                    <CardList className='card' topic='Programming Languages' info='Java, Python, JavaScript, C, C++, SQL, HTML, CSS, Functional Programming'/>
                     <CardList className='card' topic='Technical Skills' info='RDMS, React, Git, BitBucket, Jira, Jenkins, Flask, macOS, Linux, Node.js, NPM, GitHub, Jest, MySQL, SQLite, Bash'/>
                     <CardList className='card' topic='Education' info='University of Wisconsin-La Crosse, Bachelors of Science, Computer Science, GPA: 3.650'/>
                     <CardList className='card' topic='Work Experience' 
