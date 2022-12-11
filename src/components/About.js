@@ -9,20 +9,33 @@ class About extends React.Component {
                 <h1>About Me</h1>
                 <ProfileImage className='about-image'/>
                 <p className='about-p'>
-                    My name is Felix Estrella, and I am a software engineer. In May of 2022, I graduated
-                    with honors from the University of Wisconsin-La Crosse. I received a bachelors of science majoring in Computer Science 
-                    while minoring in both Mathematics and Economics. Durning my time in school I was an active member 
-                    on campus as I was part of multiple organizations executive teams and worked a job on campus. I held multiple positions in
-                    CODERS with my last one being president and was a senator for both the Student Association and
-                    the Latin American Student Organization. In addition to my schooling, I also worked two different
-                    internships in software engineering that have led me to find a true passion for programming
-                    and the process that is involved to take a software product live. 
+                    Hi! My name is Felix Estrella. I am a graduate from the University of Wisconsin - La 
+                    Crosse where I obtained a Bachelor of Science in Computer Science with minors in Mathematics 
+                    and Economics. I graduated with a GPA of 3.650, was on the Dean's List for 6 semesters, and
+                    graduated with honors.
                 </p>
                 <p className='about-p'>
-                    This website was designed to showcase a portion of my skills when it comes to the web. 
-                    My areas of interest within computer science are software engineering and databases. Also,
-                    I am always excited to learn about new technologies along with their applications. I hope 
-                    that you liked the website, and I am always open to feedback for ways to improve the website.  
+                    In college, I was very involved in extracurricular activities. I served as the President of CODERS, 
+                    a student organization focused on promoting the field of computer science to all communties. I also 
+                    served as a Senator in the Student Association where I represented the Latin American Student Organization. 
+                    Additionally, I was an executive member of the Latin American Student Organization where I helped plan 
+                    and organize cultural events and activities. Through these experiences, I developed strong leadership 
+                    and teamwork skills. 
+                </p>
+                <p className='about-p'>
+                    Currently, I am working as a Software Engineer at Atlantic Casualty Insurance Company where I have optimized 
+                    VB.net applications and converted the code base to a database-driven approach using C#, ASP.net, Angular, and SQL. 
+                    I have also helped automate the ETL process of multiple web applications to a single database.
+                </p>
+                <p className='about-p'>
+                    Prior to my current position, I interned at Best Buy Corporate where I created and modified React components on a user-facing team. 
+                    I also optimized applications using lazy loading, loadable components, and by reviewing data structures to decrease initial loading time by 39.95%. 
+                    I performed unit and integration tests with Jest and Cypress to ensure quality code production.
+                </p>
+                <p className='about-p'>
+                    Before that, I interned at RealityBLU where I created an internal website to demonstrate the abilities of augmented reality using HTML5, CSS3, JavaScript, 
+                    Node.js, and Python. I also wrote documentation for software components related to augmented reality and managed various 3D models that were implemented 
+                    into a program.
                 </p>
             </div>
         );
