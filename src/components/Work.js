@@ -20,7 +20,7 @@ class Work extends React.Component {
                     </ul>
                 </div>
                 <div>
-                    <h2><b>Intern Software Developer</b>, RealityBLU, Beloit, WI, 07/2020 - 08/2020</h2>
+                    <h2><b>Intern Software Developer</b>, RealityBLU, Beloit, WI, 06/2020 - 08/2020</h2>
                     <ul>
                         <li>Created a proof of concept for marker-less augmented reality using Node.js</li>
                         <li>Wrote documentation for software components related to augmented reality</li>
