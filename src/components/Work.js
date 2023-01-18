@@ -8,6 +8,19 @@ class Work extends React.Component {
                 <h1>Work Experience</h1>
                 <div>
                     <h2><b>Software Engineer</b>, Atlantic Casualty Insurance Company, Goldsboro, NC, 10/2022 - Present</h2>
+                    <ul>
+                        <li>Implemented a database-driven approach for form data management and retrieval using C#, ASP.NET, 
+                            Angular, Oracle Database, and SQL, resulting in saved time for analysts and engineers on future 
+                            form updates</li>
+                        <li>Communicated with business stakeholders to create clear and effective JIRA stories, which facilitated 
+                            the implementation of solutions by engineers</li>
+                        <li>Optimized database connections, resulting in a significant decrease in connection timeouts and improved 
+                            overall performance</li>
+                        <li>Instituted a new data validation feature for a REST API, which effectively prevented incorrect ratings 
+                            from being returned to insurance personnel</li>
+                        <li>Developed and maintained regular expressions for data validation, including identifying and updating out-of-date 
+                            expressions to improve accuracy and efficiency in a .NET application</li>
+                    </ul>
                 </div>
                 <div>
                     <h2><b>Digital Engineering Intern</b>, Best Buy Corporate, Richfield, MN, 06/2021 - 08/2021</h2>

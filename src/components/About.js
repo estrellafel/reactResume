@@ -23,9 +23,15 @@ class About extends React.Component {
                     and teamwork skills. 
                 </p>
                 <p className='about-p'>
-                    Currently, I am working as a Software Engineer at Atlantic Casualty Insurance Company where I have optimized 
-                    VB.net applications and converted the code base to a database-driven approach using C#, ASP.net, Angular, and SQL. 
-                    I have also helped automate the ETL process of multiple web applications to a single database.
+                    Currently, I am working as a Software Engineer at Atlantic Casualty Insurance Company where I implemented 
+                    a database-driven approach for form data management and retrieval using C#, ASP.NET, Angular, Oracle Database, 
+                    and SQL. This resulted in saved time for analysts and engineers on future form updates. Also, I communicated 
+                    with business stakeholders to create clear and effective JIRA stories, which facilitated the implementation of 
+                    solutions by engineers. Plus, I optimized database connections, resulting in a significant decrease in connection 
+                    timeouts and improved overall performance. Additionally, I instituted a new data validation feature for a REST API, which 
+                    effectively prevented incorrect ratings from being returned to insurance personnel. Futhermore, I developed 
+                    and maintained regular expressions for data validation, including identifying and updating out-of-date expressions 
+                    to improve accuracy and efficiency in a .NET application.
                 </p>
                 <p className='about-p'>
                     Prior to my current position, I interned at Best Buy Corporate where I created and modified React components on a user-facing team. 
