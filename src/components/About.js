@@ -1,7 +1,6 @@
 import React from 'react';
 import './About.css'
 import ProfileImage from './ProfileImage';
-import glb from '../assets/3d.glb'
 
 class About extends React.Component {
     render() {
@@ -44,12 +43,6 @@ class About extends React.Component {
                     Node.js, and Python. I also wrote documentation for software components related to augmented reality and managed various 3D models that were implemented 
                     into a program.
                 </p>
-                <model-viewer
-                    src={glb}
-                    alt="A rock"
-                    camera-controls
-                    ar>
-                </model-viewer>
             </div>
         );
     }
