@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/reactResume/static/css/main.77ef0e50.css",
-    "main.js": "/reactResume/static/js/main.56b46d8e.js",
+    "main.css": "/reactResume/static/css/main.fee98f78.css",
+    "main.js": "/reactResume/static/js/main.7b9fcffd.js",
     "static/js/787.395fa40f.chunk.js": "/reactResume/static/js/787.395fa40f.chunk.js",
     "static/media/felix_e.jpeg": "/reactResume/static/media/felix_e.c05d6b3cc2fe15028fc7.jpeg",
+    "static/media/3d.usdz": "/reactResume/static/media/3d.0bc5b96e481690b3d271.usdz",
+    "static/media/3d.glb": "/reactResume/static/media/3d.8c6393bb39f4df533b10.glb",
     "index.html": "/reactResume/index.html",
-    "main.77ef0e50.css.map": "/reactResume/static/css/main.77ef0e50.css.map",
-    "main.56b46d8e.js.map": "/reactResume/static/js/main.56b46d8e.js.map",
+    "main.fee98f78.css.map": "/reactResume/static/css/main.fee98f78.css.map",
+    "main.7b9fcffd.js.map": "/reactResume/static/js/main.7b9fcffd.js.map",
     "787.395fa40f.chunk.js.map": "/reactResume/static/js/787.395fa40f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77ef0e50.css",
-    "static/js/main.56b46d8e.js"
+    "static/css/main.fee98f78.css",
+    "static/js/main.7b9fcffd.js"
   ]
 }
