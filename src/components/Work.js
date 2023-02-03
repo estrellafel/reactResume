@@ -20,6 +20,8 @@ class Work extends React.Component {
                             from being returned to insurance personnel</li>
                         <li>Developed and maintained regular expressions for data validation, including identifying and updating out-of-date 
                             expressions to improve accuracy and efficiency in a .NET application</li>
+                        <li>Debugged and resolved build failures in Jenkins within the company’s continuous integration/continuous deployment (CI/CD) 
+                            pipeline, ensuring timely and successful delivery of software updates</li>
                     </ul>
                 </div>
                 <div>
