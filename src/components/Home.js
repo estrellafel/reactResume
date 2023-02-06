@@ -15,7 +15,7 @@ class Home extends React.Component {
                     <CardList className='card' topic='Education' info='University of Wisconsin-La Crosse, Bachelors of Science, Computer Science, GPA: 3.650'/>
                     <CardList className='card' topic='Work Experience' 
                         info='Software Engineer - Atlantic Casualty Insurance Company, Digital Engineering Intern - Corporate Best Buy, Intern Software Developer - RealityBLU'/>
-                    <CardList className='card' topic='Job Interest' info='Data Analyst, Data Engineer, Business Analyst, Software Engineer'/>
+                    <CardList className='card' topic='Job Interest' info='Technology, Education, Media, Healthcare'/>
                     <CardList className='card' topic='Contact Information' info='Email - felixestrella7@gmail.com, Phone Number - 608.314.4321'/>
                 </div>
             </div>
