@@ -2,6 +2,9 @@ import React from 'react';
 import './Home.css'
 import NameHeader from './NameHeader.js';
 import CardList from './CardList.js';
+import Social from './Social';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faFacebook } from "@fortawesome/free-brands-svg-icons"
 
 class Home extends React.Component {
     render() {
@@ -18,6 +21,7 @@ class Home extends React.Component {
                     <CardList className='card' topic='Job Interest' info='Technology, Education, Business, Media'/>
                     <CardList className='card' topic='Contact Information' info='Email - felixestrella7@gmail.com, Phone Number - 608.314.4321'/>
                 </div>
+                <Social/>
             </div>
         );
     }
