@@ -13,7 +13,7 @@ class Project extends React.Component {
                             The idea behind the project was to create an interactive experience for Best Buy
                             users. Using the Google Model Viewer I was able to help create an enjoyable
                             experience for the users while also not bloating the web application's loading time.
-                            Once in the BestBuy page click on the image and go to "3D View" to see the
+                            Once on the Best Buy page click on the image and go to "3D View" to see the
                             work I contributed on. There are other products that this also works on throughout
                             the Best Buy catalog. 
                         </p>
