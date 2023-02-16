@@ -22,6 +22,15 @@ class Project extends React.Component {
                         </div>
                     </div>
                     <div>
+                        <h2>3D Model Viewer Example</h2>
+                        <p>
+                            An augmented reality experience without leaving this website!
+                        </p>
+                        <div>
+                            <a href='/#/reactResume/augmentedReality'>Live Example</a>
+                        </div>
+                    </div>
+                    <div>
                         <h2>Ready Set Read Application</h2>
                         <p>
                             The main purpose of this project was to learn more about Flask and databases. This is a 

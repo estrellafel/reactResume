@@ -22,7 +22,6 @@ class Navbar extends React.Component {
                     <li><Link to={'/reactResume/about'} className='nav-link'>About</Link></li>
                     <li><Link to={'/reactResume/experience'} className='nav-link'>Work Experience</Link></li>
                     <li><Link to={'/reactResume/projects'} className='nav-link'>Projects</Link></li>
-                    <li><Link to={'/reactResume/augmentedReality'} className='nav-link'>Augmented Reality</Link></li>
                 </ul>
                 <Routes>
                     <Route path='reactResume' element={<Home/>}/>
