@@ -27,7 +27,7 @@ class Project extends React.Component {
                             An augmented reality experience without leaving this website!
                         </p>
                         <div>
-                            <a href='/#/reactResume/augmentedReality'>Live Example</a>
+                            <a href='/reactResume/#/reactResume/augmentedReality'>Live Example</a>
                         </div>
                     </div>
                     <div>
