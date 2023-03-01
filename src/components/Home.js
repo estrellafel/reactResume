@@ -15,7 +15,7 @@ class Home extends React.Component {
                     SQLite, Oracle Database, Microsoft SQL Server Express, Bash, .NET Framework'/>
                     <CardList className='card' topic='Education' info='University of Wisconsin-La Crosse, Bachelors of Science, Computer Science, GPA: 3.650'/>
                     <CardList className='card' topic='Work Experience' 
-                        info='Software Engineer - Atlantic Casualty Insurance Company, Software Engineer Intern - Corporate Best Buy, Software Developer Intern- RealityBLU'/>
+                        info='Software Engineer - Atlantic Casualty Insurance Company, Software Engineer Intern - Corporate Best Buy, Software Developer Intern - RealityBLU'/>
                     <CardList className='card' topic='Contact Information' info='Email - felixestrella7@gmail.com, Phone Number - 608.314.4321'/>
                 </div>
                 <Social/>
