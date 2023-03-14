@@ -9,7 +9,7 @@ ul.navbar-main {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #4E944F;
+    background-color: transparent;
 }
   
 ul.navbar-main > li {
@@ -20,10 +20,15 @@ ul.navbar-main > li {
 
 ul.navbar-main > li:hover {
     cursor: pointer;
-    background-color: #B4E197;
+    background-color: darkgreen;
 }
 
 ul > li > .nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+ul > li:hover > .nav-link {
     text-decoration: none;
     color: white;
 }

@@ -1,22 +1,37 @@
 import React from 'react';
 import './Home.css'
-import NameHeader from './NameHeader.js';
-import CardList from './CardList.js';
+import felix_e from '../assets/fe.jpeg'
 import Social from './Social';
 
 class Home extends React.Component {
     render() {
         return (
-            <div>
-                <NameHeader firstName='Felix' lastName='Estrella'/>
-                <div className='card-containter'>
-                    <CardList className='card' topic='Programming Languages' info='Java, Python, SQL, JavaScript, C, C#, Visual Basic, HTML, CSS, Functional Programming'/>
-                    <CardList className='card' topic='Technical Skills' info='React, Git, BitBucket, Jira, Jenkins, Flask, macOS, Excel, Linux, Node.js, NPM, GitHub, Jest, MySQL, 
-                    SQLite, Oracle Database, Microsoft SQL Server Express, Bash, .NET Framework'/>
-                    <CardList className='card' topic='Education' info='University of Wisconsin-La Crosse, Bachelors of Science, Computer Science, GPA: 3.650'/>
-                    <CardList className='card' topic='Work Experience' 
-                        info='Software Engineer - Atlantic Casualty Insurance Company, Software Engineer Intern - Corporate Best Buy, Software Developer Intern - RealityBLU'/>
-                    <CardList className='card' topic='Contact Information' info='Email - felixestrella7@gmail.com, Phone Number - 608.314.4321'/>
+            <div className='parent'>
+                <div className="rectangle">
+                    <div className="text-container">
+                        <h2>Welcome!</h2>
+                        <p>
+                            Hello, my name is Felix Estrella and thank you for taking the time 
+                            to visit my website. I’m a software engineer with interest in databases, 
+                            data analysis, design, and optimization. Throughout my time in the industry 
+                            I have worked on numerous projects at RealityBLU, Best Buy, and Atlantic Casualty 
+                            Insurance Company which has helped me learn countless skills and practices to help 
+                            any software or data team.
+                        </p>
+                        <p>
+                            When I am not coding or querying for data I enjoy working out, watching movies, and 
+                            spending time with family and friends. Another way I spend my free time is by watching 
+                            sports as I am a Chicago sports fan.
+                        </p>
+                        <p>
+                            I hope you enjoy this website and please feel free to reach out to discuss any opportunities 
+                            or computer topics! You can find my contact information on the “Resume” tab of this website. 
+                            Also, my LinkedIn and Github pages are linked below on the bottom left hand corner of the page.
+                        </p>
+                    </div>
+                    <div className="image-container">
+                        <img src={felix_e} alt="Felix Estrella in dress cloths"></img>
+                    </div>
                 </div>
                 <Social/>
             </div>

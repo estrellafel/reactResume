@@ -1,12 +1,49 @@
-.card-containter {
-    width: 100vw;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .card {
-    margin: 10px;
-  }
+div.parent {
+  position: relative;
+}
+
+.rectangle {
+  width: 70vw; /* Can be in percentage also. */
+  height: 90vh;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+  display: flex;
+  min-width: 600px;
+}
+
+.image-container {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+  max-height: 100%;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  border-radius: 20px;
+}
+
+.text-container {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  margin-left: 20px;
+  overflow-y: auto;
+}
+
+.text-container h2 {
+  margin-top: 0;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.text-container p {
+  margin-bottom: 0;
+}
