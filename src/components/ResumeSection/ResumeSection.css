@@ -1,3 +1,7 @@
+div.resume-section {
+    color: white;
+}
+
 div.resume-section > div.resume-header {
     text-align: center;
     font-size: 1.2em;
@@ -6,7 +10,7 @@ div.resume-section > div.resume-header {
 
 div.resume-section > h1 {
     font-size: 2em;
-    color: black;
+    color: white;
     text-align: center;
     margin-bottom: 0;
     margin-top: 0;
@@ -17,11 +21,11 @@ div.resume-section > h1.name {
 }
 
 div.resume-section > hr {
-    border: 1px solid black;
+    border: 1px solid white;
 }
 
 div.resume-section > hr.main-line {
-    border: 2px solid black;
+    border: 2px solid white;
 }
 
 div.resume-section > div > h2 {
@@ -62,7 +66,7 @@ div.resume-section > div > ul > li {
 
 div.resume-section > div > ul > li::before {
     content: "•";
-    color: black;
+    color: white;
     display: inline-block; 
     width: 1em;
     margin-left: -1em

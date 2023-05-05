@@ -20,15 +20,15 @@ ul.navbar-main > li {
 
 ul.navbar-main > li:hover {
     cursor: pointer;
-    background-color: darkgreen;
+    background-color: white;
 }
 
 ul > li > .nav-link {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 ul > li:hover > .nav-link {
     text-decoration: none;
-    color: white;
+    color: black;
 }

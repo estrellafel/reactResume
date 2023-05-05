@@ -1,8 +1,7 @@
 body {
-  background: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  background: black;
   background-size: cover;
   margin: 0;
-  padding-bottom: 10px;
 }
 
 * {

@@ -1,48 +1,131 @@
 div.parent {
   position: relative;
+  width: 100vw;
 }
 
-.rectangle {
-  width: 70vw; /* Can be in percentage also. */
-  height: 90vh;
-  margin: 0 auto;
-  padding: 10px;
-  position: relative;
-  display: flex;
-  min-width: 600px;
+div.parent > div.image > img {
+  border-radius: 50%;
+  width: 30vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 
-.image-container {
-  flex: 1;
-  background-color: #fff;
-  padding: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+div.parent > div.text {
+  color: white;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 
-.image-container img {
-  max-width: 100%;
-  height: auto;
-  max-height: 100%;
-  width: auto;
-  cursor: pointer;
-  transition: transform 0.2s ease-in-out;
-  border-radius: 20px;
+div.parent > div.name > ul {
+  text-align: center;
+  list-style-type: none;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 
-.text-container {
-  flex: 1;
-  background-color: #fff;
-  padding: 20px;
-  overflow-y: auto;
+div.parent > div.name > ul li {
+  display: inline;
+  list-style: none;
+  font-size: 3em;
+  letter-spacing: .1em;
+  text-shadow: none;
+  animation:  animate 1s infinite linear;
 }
 
-.text-container h2 {
-  margin-top: 0;
-  font-family:'Times New Roman', Times, serif;
+@keyframes animate {
+  0% {
+    color: white;
+    text-shadow: none;
+  }
+  18% {
+    color: white;
+    text-shadow: none;
+  }
+  20% {
+    color: yellow;
+    text-shadow: 0 0 .1em yellow, 0 0 .3em yellow;
+  }
+  30% {
+    color: white;
+    text-shadow: none;
+  }
+  35% {
+    color: yellow;
+    text-shadow: 0 0 .1em yellow, 0 0 .3em yellow;
+  }
+  70% {
+    color: white;
+    text-shadow: none;
+  }
+  80% {
+    color: yellow;
+    text-shadow: 0 0 .1em yellow, 0 0 .3em yellow;
+  }
+  90% {
+    color: white;
+    text-shadow: none;
+  }
+  100% {
+    color: white;
+    text-shadow: none;
+  }
 }
 
-.text-container p {
-  margin-bottom: 0;
+div.parent > div.name > ul li:nth-child(1) {
+  animation-delay: .2s;
+}
+
+div.parent > div.name > ul li:nth-child(2) {
+  animation-delay: .4s;
+}
+
+div.parent > div.name > ul li:nth-child(3) {
+  animation-delay: .6s;
+}
+
+div.parent > div.name > ul li:nth-child(4) {
+  animation-delay: .8s;
+}
+
+div.parent > div.name > ul li:nth-child(5) {
+  animation-delay: 1s;
+}
+
+div.parent > div.name > ul li:nth-child(6) {
+  animation-delay: 1.2s;
+}
+
+div.parent > div.name > ul li:nth-child(7) {
+  animation-delay: 1.4s;
+}
+
+div.parent > div.name > ul li:nth-child(8) {
+  animation-delay: 1.6s;
+}
+
+div.parent > div.name > ul li:nth-child(9) {
+  animation-delay: 1.8s;
+}
+
+div.parent > div.name > ul li:nth-child(10) {
+  animation-delay: 2s;
+}
+
+div.parent > div.name > ul li:nth-child(11) {
+  animation-delay: 2.2s;
+}
+
+div.parent > div.name > ul li:nth-child(12) {
+  animation-delay: 2.4s;
+}
+
+div.parent > div.name > ul li:nth-child(13) {
+  animation-delay: 2.6s;
+}
+
+div.parent > div.name > ul li:nth-child(14) {
+  animation-delay: 2.8s;
 }
