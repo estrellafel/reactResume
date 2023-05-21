@@ -12,7 +12,7 @@ class Databases extends React.Component {
                         <tbody>
                             <tr>
                                 <td>Oracle Database</td>
-                                <td>Microsoft SQL Server Express</td>
+                                <td>Microsoft SQL Server</td>
                                 <td>MySQL</td>
                             </tr>
                             <tr>

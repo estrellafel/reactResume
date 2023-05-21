@@ -13,14 +13,14 @@ class Work extends React.Component {
                         <li>Implemented a database-driven approach for form data management and retrieval using C#, ASP.NET, 
                             Angular, Oracle Database, and SQL, resulting in saved time for analysts and engineers on future 
                             form updates</li>
-                        <li>Communicated with business stakeholders to create clear and effective Jira stories to facilitate 
-                            the implementation of solutions by engineers</li>
-                        <li>Optimized database connections, resulting in a significant decrease in connection timeouts and improved 
-                            overall performance</li>
+                        <li>Developed features for a legacy Visual Basic .NET application to efficiently retrieve and store 
+                            premium distribution data to Microsoft SQL Server and Oracle Database, significantly improving 
+                            the company's data-gathering capabilities and providing critical insights to stakeholders</li>
+                        <li>Led an effort to maintain, update, and streamline the business logic across all of the products in the 
+                            company's software development lifecycle, with a focus on improving the user experience for creating 
+                            property and general liability insurance quotes</li>
                         <li>Instituted a new data validation feature for a REST API to effectively prevent incorrect ratings 
                             from being returned to insurance personnel</li>
-                        <li>Developed and maintained regular expressions for data validation, including identifying and updating out-of-date 
-                            expressions to improve accuracy and efficiency in a .NET application</li>
                         <li>Debugged and resolved build failures in Jenkins within the company’s continuous integration/continuous deployment (CI/CD) 
                             pipeline, ensuring timely and successful delivery of software updates</li>
                     </ul>

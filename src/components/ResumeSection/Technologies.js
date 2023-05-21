@@ -33,6 +33,7 @@ class Technologies extends React.Component {
                             <tr>
                                 <td>.NET Frameworks</td>
                                 <td>Microsoft Suite</td>
+                                <td>Jenkins</td>
                             </tr>
                         </tbody>
                     </table>
