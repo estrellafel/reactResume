@@ -32,7 +32,7 @@ class Home extends React.Component {
                     <p>
                         Hello, my name is Felix Estrella and thank you for taking the time 
                         to visit my website. I’m a software engineer with interest in databases, 
-                        data analysis, design, and optimization. Throughout my time in the industry 
+                        API development, data engineering, and optimization. Throughout my time in the industry 
                         I have worked on numerous projects at RealityBLU, Best Buy, and Atlantic Casualty 
                         Insurance Company which has helped me learn countless skills and practices to help 
                         any software or data team.
