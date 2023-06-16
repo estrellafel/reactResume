@@ -16,9 +16,9 @@ class Work extends React.Component {
                         <li>Developed features for a legacy Visual Basic .NET application to efficiently retrieve and store 
                             premium distribution data to Microsoft SQL Server and Oracle Database, significantly improving 
                             the company's data-gathering capabilities and providing critical insights to stakeholders</li>
-                        <li>Led an effort to maintain, update, and streamline the business logic across all of the products in the 
-                            company's software development lifecycle, with a focus on improving the user experience for creating 
-                            property and general liability insurance quotes</li>
+                        <li>Accelerated an effort to maintain, update, and streamline the business logic across the company's 
+                            software product line, with a focus on improving the user experience for creating property and 
+                            general liability insurance quotes</li>
                         <li>Instituted a new data validation feature for a REST API to effectively prevent incorrect ratings 
                             from being returned to insurance personnel</li>
                         <li>Debugged and resolved build failures in Jenkins within the company’s continuous integration/continuous deployment (CI/CD) 
