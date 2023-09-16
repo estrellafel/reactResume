@@ -17,9 +17,8 @@ class Work extends React.Component {
                             store premium distribution data totalling over 60 million dollars to Microsoft SQL Server and Oracle 
                             Database, significantly improving the company's data-gathering capabilities and providing critical insights 
                             to stakeholders</li>
-                        <li>Created a feature to allocate minimum and target property premiums across coverages with guidelines 
-                            from actuarial, providing a more accurate picture of the cost allocation of each coverage to consumers 
-                            and business units</li>
+                        <li>Created a feature to allocate minimum and target property premiums across coverages to provide a more accurate picture 
+                            of the cost allocation of each coverage to consumers and business units</li>
                         <li>Instituted a new data validation feature for a REST API to proactively safeguard against erroneous ratings and provide 
                             actionable correction messages to insurance personnel</li>
                         <li>Debugged and resolved build failures in Jenkins within the company’s continuous integration/continuous deployment (CI/CD) 
