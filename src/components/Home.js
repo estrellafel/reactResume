@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css'
-import felix_e from '../assets/fe.jpeg'
+import felix_e from '../assets/felix.jpeg'
 import Social from './Social';
 
 class Home extends React.Component {

@@ -45,24 +45,24 @@ div.parent > div.name > ul li {
     text-shadow: none;
   }
   20% {
-    color: yellow;
-    text-shadow: 0 0 .1em yellow, 0 0 .3em yellow;
+    color: rgb(200, 200, 6);
+    text-shadow: 0 0 .1em rgb(200, 200, 6), 0 0 .3em rgb(200, 200, 6);
   }
   30% {
     color: white;
     text-shadow: none;
   }
   35% {
-    color: yellow;
-    text-shadow: 0 0 .1em yellow, 0 0 .3em yellow;
+    color: rgb(200, 200, 6);
+    text-shadow: 0 0 .1em rgb(200, 200, 6), 0 0 .3em rgb(200, 200, 6);
   }
   70% {
     color: white;
     text-shadow: none;
   }
   80% {
-    color: yellow;
-    text-shadow: 0 0 .1em yellow, 0 0 .3em yellow;
+    color: rgb(200, 200, 6);
+    text-shadow: 0 0 .1em rgb(200, 200, 6), 0 0 .3em rgb(200, 200, 6);
   }
   90% {
     color: white;

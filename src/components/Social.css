@@ -29,5 +29,5 @@ div.social > ul > li > a {
 }
 
 div.social > ul > li > a:hover {
-    color: yellow;
+    color: rgb(200, 200, 6);
 }
