@@ -35,6 +35,9 @@ class Technologies extends React.Component {
                                 <td>Microsoft Suite</td>
                                 <td>Jenkins</td>
                             </tr>
+                            <tr>
+                                <td>Duck Creek</td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>

@@ -12,7 +12,6 @@ class Education extends React.Component {
                     <ul>
                         <li>Bachelor of Science in Computer Science</li>
                         <li>Minors: Mathematics and Economics</li>
-                        <li>GPA: 3.650</li>
                         <li>Graduated with honors</li>
                     </ul>
                 </div>

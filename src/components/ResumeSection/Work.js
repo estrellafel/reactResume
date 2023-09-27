@@ -21,6 +21,8 @@ class Work extends React.Component {
                             of the cost allocation of each coverage to consumers and business units</li>
                         <li>Instituted a new data validation feature for a REST API to proactively safeguard against erroneous ratings and provide 
                             actionable correction messages to insurance personnel</li>
+                        <li>Utilized Duck Creek to integrate new insurance coverages into an existing .NET application, enhancing the range of available 
+                            P&C insurance options</li>
                         <li>Debugged and resolved build failures in Jenkins within the company’s continuous integration/continuous deployment (CI/CD) 
                             pipeline, ensuring timely and successful delivery of software updates</li>
                     </ul>
