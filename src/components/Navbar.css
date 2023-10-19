@@ -14,7 +14,6 @@ ul.navbar-main {
   
 ul.navbar-main > li {
     float: left;
-    padding: 1vw;
     font-size: 1.2em;
 }
 
@@ -26,6 +25,9 @@ ul.navbar-main > li:hover {
 ul > li > .nav-link {
     text-decoration: none;
     color: white;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    font-size: 1.2em;
 }
 
 ul > li:hover > .nav-link {
