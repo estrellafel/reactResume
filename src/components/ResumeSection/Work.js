@@ -8,7 +8,9 @@ class Work extends React.Component {
                 <h1>Work Experience</h1>
                 <hr/>
                 <div>
-                    <h2><b>Software Engineer</b>, Atlantic Casualty Insurance Company, Goldsboro, NC, 10/2022 - Present</h2>
+                    <h2><b>Atlantic Casualty Insurance Company, Goldsboro, NC</b></h2>
+                    <h2>Software Engineer I | 10/2022 - 01/2024</h2>
+                    <h2>Software Engineer II | 01/2024 - Present</h2>
                     <ul>
                         <li>Implemented a database-driven approach for form data management and retrieval using C#, ASP.NET, 
                             Angular, Oracle Database, and SQL, resulting in saved time for analysts and engineers on future 
@@ -28,7 +30,8 @@ class Work extends React.Component {
                     </ul>
                 </div>
                 <div>
-                    <h2><b>Digital Engineering Intern</b>, Best Buy Corporate, Richfield, MN, 06/2021 - 08/2021</h2>
+                    <h2><b>Best Buy Corporate, Richfield, MN</b></h2>
+                    <h2>Digital Engineering Intern | 06/2021 - 08/2021</h2>
                     <ul>
                         <li>Created and modified existing React components on a user facing team</li>
                         <li>Optimized applications using lazy loading, loadable components, and by reviewing data
@@ -38,7 +41,8 @@ class Work extends React.Component {
                     </ul>
                 </div>
                 <div>
-                    <h2><b>Software Developer Intern</b>, RealityBLU, Beloit, WI, 06/2020 - 08/2020</h2>
+                    <h2><b>RealityBLU, Beloit, WI</b></h2>
+                    <h2>Software Developer Intern | 06/2020 - 08/2020</h2>
                     <ul>
                         <li>Created a proof of concept for marker-less augmented reality using Node.js</li>
                         <li>Wrote documentation for software components related to augmented reality</li>
