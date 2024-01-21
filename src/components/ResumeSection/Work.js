@@ -9,8 +9,8 @@ class Work extends React.Component {
                 <hr/>
                 <div>
                     <h2><b>Atlantic Casualty Insurance Company, Goldsboro, NC</b></h2>
-                    <h2>Software Engineer I | 10/2022 - 01/2024</h2>
                     <h2>Software Engineer II | 01/2024 - Present</h2>
+                    <h2>Software Engineer I | 10/2022 - 01/2024</h2>
                     <ul>
                         <li>Implemented a database-driven approach for form data management and retrieval using C#, ASP.NET, 
                             Angular, Oracle Database, and SQL, resulting in saved time for analysts and engineers on future 
