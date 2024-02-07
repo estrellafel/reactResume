@@ -16,7 +16,7 @@ class Work extends React.Component {
                             Angular, Oracle Database, and SQL, resulting in saved time for analysts and engineers on future 
                             form updates</li>
                         <li>Developed features for a C# and legacy Visual Basic 6.0 application to efficiently retrieve and 
-                            store premium distribution data totaling over 96 million dollars to Microsoft SQL Server and Oracle 
+                            store premium distribution data totaling over 128 million dollars to Microsoft SQL Server and Oracle 
                             Database, significantly improving the company's data-gathering capabilities and providing critical insights 
                             to stakeholders</li>
                         <li>Designed a feature that distributes minimum and target property premiums across coverages, ensuring a more 
