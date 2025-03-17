@@ -12,21 +12,24 @@ class Work extends React.Component {
                     <h2>Software Engineer II | 01/2024 - Present</h2>
                     <h2>Software Engineer I | 10/2022 - 01/2024</h2>
                     <ul>
-                        <li>Implemented a database-driven approach for form data management and retrieval using C#, ASP.NET, 
-                            Angular, Oracle Database, and SQL, resulting in saved time for analysts and engineers on future 
-                            form updates</li>
-                        <li>Developed features for a C# and legacy Visual Basic 6.0 application to efficiently retrieve and 
-                            store premium distribution data totaling over 128 million dollars to Microsoft SQL Server and Oracle 
-                            Database, significantly improving the company's data-gathering capabilities and providing critical insights 
-                            to stakeholders</li>
-                        <li>Designed a feature that distributes minimum and target property premiums across coverages, ensuring a more 
-                            precise cost allocation for policyholders and business units</li>
-                        <li>Instituted a new data validation feature for a REST API to proactively safeguard against erroneous ratings and provide 
-                            actionable correction messages to insurance personnel</li>
-                        <li>Utilized Duck Creek to integrate new insurance coverages into an existing .NET application, enhancing the range of available 
-                            P&C insurance options</li>
-                        <li>Debugged and resolved build failures in Jenkins within the company’s continuous integration/continuous deployment (CI/CD) 
-                            pipeline, ensuring timely and successful delivery of software updates</li>
+                        <li>Engineered a database-driven form data management system using C#, ASP.NET, Angular, and Oracle, 
+                            reducing manual updates and improving efficiency for analysts and engineers</li>
+                        <li>Developed and optimized features in C# and legacy VB6 applications, streamlining policy 
+                            processing and premium distribution for $500 million annually across SQL Server and Oracle databases</li>
+                        <li>Designed and implemented automated target premium logic, helping agents and underwriters make optimal decisions 
+                            for policyholders</li>
+                        <li>Implemented a proactive data validation feature for a REST API, preventing erroneous ratings and delivering actionable 
+                            feedback for insurance personnel</li>
+                        <li>Spearheaded the migration of a policy processing application from VB6 to C#, cutting processing time by 85% 
+                            and significantly improving accuracy</li>
+                        <li>Led onboarding for new engineers, providing hands-on training in the company's proprietary 
+                            rating system and policy issuance software</li>
+                        <li>Integrated new insurance coverages into an existing .NET application using Duck Creek, broadening 
+                            available P&C insurance options</li>
+                        <li>Integrated multiple wildfire risk APIs into the company’s rating application, enabling hazard assessment and 
+                            enhancing underwriting accuracy by storing and leveraging wildfire data</li>
+                        <li>Diagnosed and resolved CI/CD pipeline failures in Jenkins, ensuring smooth and 
+                            timely software deployments</li>
                     </ul>
                 </div>
                 <div>
