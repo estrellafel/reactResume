@@ -8,8 +8,8 @@ class Work extends React.Component {
                 <h1>Work Experience</h1>
                 <hr/>
                 <div>
-                    <h2><b>Atlantic Casualty Insurance Company, Goldsboro, NC</b></h2>
-                    <h2>Software Engineer II | 01/2024 - Present</h2>
+                    <h2><b>Atlantic Casualty Insurance Company, Goldsboro, NC | 10/2022 - Present</b></h2>
+                    <h2>Software Engineer II</h2>
                     <ul>
                         <li>Developed and optimized features in C# and legacy VB6 applications, streamlining 
                             policy processing and premium distribution for $500 million annually across SQL 
@@ -30,7 +30,7 @@ class Work extends React.Component {
                         <li>Mentored and onboarded new engineers, providing hands-on training in the company’s 
                             proprietary rating system and policy issuance software</li>
                     </ul>
-                    <h2>Software Engineer I | 10/2022 - 01/2024</h2>
+                    <h2>Software Engineer I</h2>
                     <ul>
                         <li>Engineered a database-driven form data management system using C#, ASP.NET, Angular, 
                             and Oracle, reducing manual updates and improving efficiency for analysts and engineers</li>
@@ -45,8 +45,8 @@ class Work extends React.Component {
                     </ul>
                 </div>
                 <div>
-                    <h2><b>Best Buy Corporate, Richfield, MN</b></h2>
-                    <h2>Digital Engineering Intern | 06/2021 - 08/2021</h2>
+                    <h2><b>Best Buy Corporate, Richfield, MN | 06/2021 - 08/2021</b></h2>
+                    <h2>Digital Engineering Intern</h2>
                     <ul>
                         <li>Created and modified existing React components on a user facing team</li>
                         <li>Optimized applications using lazy loading, loadable components, and by reviewing data
@@ -56,8 +56,8 @@ class Work extends React.Component {
                     </ul>
                 </div>
                 <div>
-                    <h2><b>RealityBLU, Beloit, WI</b></h2>
-                    <h2>Software Developer Intern | 06/2020 - 08/2020</h2>
+                    <h2><b>RealityBLU, Beloit, WI | 06/2020 - 08/2020</b></h2>
+                    <h2>Software Developer Intern</h2>
                     <ul>
                         <li>Created a proof of concept for marker-less augmented reality using Node.js</li>
                         <li>Wrote documentation for software components related to augmented reality</li>
