@@ -8,7 +8,7 @@ class Certification extends React.Component {
                 <h1>Certifications</h1>
                 <hr/>
                 <div>
-                    <h2><b>Assoicate in General Insurance</b> - The Institutes Knowledge Group</h2>
+                    <h2><b>Associate in General Insurance</b> - The Institutes Knowledge Group</h2>
                     <ul>
                         <li>Issued - April 2025</li>
                     </ul>
