@@ -30,22 +30,31 @@ class Home extends React.Component {
                 </div>
                 <div className='text'>
                     <p>
-                        Hello, my name is Felix Estrella and thank you for taking the time 
-                        to visit my website. I’m a software engineer with interest in databases, 
-                        API development, data engineering, and optimization. Throughout my time in the industry 
-                        I've been on numerous projects at RealityBLU, Best Buy, and Atlantic Casualty 
-                        Insurance Company. These projects have helped me learn countless skills and practices to help 
-                        any software or data team.
+                        Hey, I'm Felix Estrella—thanks for visiting!
                     </p>
                     <p>
-                        When I am not coding or querying for data I enjoy working out, watching movies, and 
-                        spending time with family and friends. Another way I spend my free time is by watching 
-                        sports as I am a Chicago sports fan.
+                        I’m a software engineer with a passion for data engineering, API development, and optimization. 
+                        Over the years, I’ve had the privilege of working on high-impact projects at RealityBLU, Best Buy, 
+                        and Atlantic Casualty Insurance. These experiences have honed my ability to design scalable systems, 
+                        integrate data-driven solutions, and optimize business-critical workflows that drive measurable results. 
+                        I specialize in creating tech that not only works, but delivers real value—whether it’s increasing efficiency, 
+                        improving accuracy, or enabling smarter business decisions.
                     </p>
                     <p>
-                        I hope you enjoy this website and please feel free to reach out to discuss any opportunities 
-                        or computer topics! You can find my contact information on the “Resume” tab of this website. 
-                        Also, my LinkedIn and Github pages are linked below on the bottom left hand corner of the page.
+                        At Atlantic Casualty, I played a key role in projects that impacted $500M+ in annual premium volume, migrating 
+                        legacy systems to modern frameworks, optimizing rating engines, and integrating risk data to enhance 
+                        underwriting accuracy. I’m driven by the intersection of technology and business strategy, where I can deliver 
+                        both technical excellence and tangible business value.
+                    </p>
+                    <p>
+                        When I’m not immersed in code, you’ll find me trying (and usually failing) to keep up with my workout routine, 
+                        watching movies I swear I’ve seen before, and enjoying the chaos of family and friends. As a Chicago sports fan, 
+                        I’ve mastered the art of optimistic disappointment on game days.
+                    </p>
+                    <p>
+                        This website is a glimpse into my professional world, but I’d love to connect with you. If you’re looking for 
+                        someone who can build, optimize, and drive business impact through technology, let’s talk. You’ll find my contact 
+                        info under the “Resume” tab, and you can also explore my LinkedIn and GitHub linked below.
                     </p>
                 </div>
                 <Social/>
