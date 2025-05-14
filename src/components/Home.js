@@ -30,15 +30,15 @@ class Home extends React.Component {
                 </div>
                 <div className='text'>
                     <p>
-                        Hey, I'm Felix Estrella—thanks for visiting!
+                        Hey, I'm Felix Estrella and thanks for visiting!
                     </p>
                     <p>
-                        I’m a software engineer with a passion for data engineering, API development, and optimization. 
-                        Over the years, I’ve had the privilege of working on high-impact projects at RealityBLU, Best Buy, 
+                        I’m a software engineer with a passion for product development, data engineering, and optimization. 
+                        Over the years, I’ve had the privilege of working on high impact projects at RealityBLU, Best Buy, 
                         and Atlantic Casualty Insurance. These experiences have honed my ability to design scalable systems, 
-                        integrate data-driven solutions, and optimize business-critical workflows that drive measurable results. 
-                        I specialize in creating tech that not only works, but delivers real value—whether it’s increasing efficiency, 
-                        improving accuracy, or enabling smarter business decisions.
+                        integrate data driven solutions, and optimize business critical workflows that drive measurable results. 
+                        I specialize in building technology that not only works but delivers measurable value by increasing efficiency, 
+                        improving accuracy, and enabling smarter business decisions.
                     </p>
                     <p>
                         At Atlantic Casualty, I played a key role in projects that impacted $500M+ in annual premium volume, migrating 
